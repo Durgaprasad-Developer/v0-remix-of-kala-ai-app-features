@@ -1,30 +1,82 @@
-# Remix of KalaAI app features
+# Kala – AI-Powered Assistant for Local Artisans  
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Kala is an AI-driven solution designed to empower **local artisans** by helping them market their craft in the digital world.  
+With Kala, artisans can easily create professional product listings, enhance product photos, and access real-time market insights — all in their own language.  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/durga-prasads-projects-8aa951c8/v0-remix-of-kala-ai-app-features)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/7xJo8Lav4LN)
+---
 
-## Overview
+## 🚀 Features  
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+### 📝 AI-Powered Marketing Assistant  
+- Generate clean **titles, descriptions, captions, and hashtags**.  
+- Works in **English + local languages**.  
+- Input through **text or voice notes**.  
 
-## Deployment
+### 🎨 Image Enhancement & Mockups  
+- Auto-enhances product photos.  
+- Creates **professional backgrounds & mockups**.  
+- Makes handmade crafts look **marketplace-ready**.  
 
-Your project is live at:
+### 📊 AI-Powered Market Insights  
+- Suggests **competitive price ranges**.  
+- Highlights **trending categories and designs**.  
+- Helps artisans stay **relevant and competitive**.  
 
-**[https://vercel.com/durga-prasads-projects-8aa951c8/v0-remix-of-kala-ai-app-features](https://vercel.com/durga-prasads-projects-8aa951c8/v0-remix-of-kala-ai-app-features)**
+### 🌍 Multilingual Support  
+- Accepts input in multiple local languages (text & voice).  
+- Responds in the **same language**, making it simple for artisans.  
 
-## Build your app
+---
 
-Continue building your app on:
+## 🛠️ How It Works (Prototype MVP)  
 
-**[https://v0.app/chat/projects/7xJo8Lav4LN](https://v0.app/chat/projects/7xJo8Lav4LN)**
+1. **Login** with mobile number or preferred authentication.  
+2. **Fill in basic store details**.  
+3. **Upload a photo** of your product.  
+4. **Describe it** by typing or speaking in your language.  
+5. Kala generates:  
+   - Title, Description, Captions, Hashtags  
+   - Enhanced Images + Mockups  
+   - Pricing & Market Insights  
 
-## How It Works
+---
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 🔮 Future Roadmap  
+
+- 🛍️ One-click **online store creation** for artisans.  
+- 📈 **Sales summaries & analytics**.  
+- 💰 **Dynamic pricing & demand forecasts**.  
+- 📹 **AI-generated reels & social media content** (via Gemini Veo APIs).  
+- 📤 One-click **social sharing across platforms**.  
+
+---
+
+## 📱 Tech Stack  
+
+- **Frontend:** React / Next.js (with multilingual UI)  
+- **Backend:** Node.js / Express + Supabase for auth  
+- **AI Models:**  
+  - Text generation (titles, descriptions, captions, hashtags)  
+  - Image enhancement & background replacement  
+  - Market insights (pricing & trends)  
+- **APIs:** Gemini (for future reel creation)  
+
+---
+
+## 🎯 Vision  
+
+Kala is more than just an app — it’s a **bridge between tradition and technology**.  
+By giving artisans the tools to compete in the digital economy, Kala preserves cultural heritage while unlocking **new income opportunities**.  
+
+---
+
+## 👥 Team  
+
+Built with ❤️ by a team passionate about **AI for social good**.  
+
+---
+
+## 📜 License  
+
+MIT License – feel free to fork, contribute, and build on top of Kala.  
+
